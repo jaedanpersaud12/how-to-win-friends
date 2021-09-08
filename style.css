@@ -7,7 +7,10 @@ body{
   font-family: "Montserrat", serif;
   background-image: linear-gradient(300deg, #f7fffe, #ebfffc 100%);
   color: #303030;
-  margin:  8em;
+  margin-left:  7.5em;
+  margin-right: 7.5em;
+  margin-top: 1em;
+  margin bottom: 2em;
 }
 
 .cover  {
