@@ -21,7 +21,13 @@ width: auto;
   text-align: left;
   border: 3px solid;
   background-color: #f7fffe;
-  padding-left: 1em;
+  padding: 2em;
+    clear: both;
+}
+
+#cover{
+  float: right;
+
 }
 
 li {
