@@ -24,7 +24,7 @@ width: auto;
 .header {
   text-align: middle;
   border: 3px solid;
-  box-sizing: border-box;
+  box-sizing: content-box;
   background-color: #f7fffe;
   padding: 2em;
     clear: both;
