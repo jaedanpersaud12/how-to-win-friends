@@ -24,10 +24,13 @@ width: auto;
   padding-left: 1em;
 }
 
-
+li {
+  font-size: 125%;
+  font-weight: bold;
 }
+
 a:link {
-  text-decoration: none;
+  text-decoration: none
 }
 a:visited {
   text-decoration: none;
