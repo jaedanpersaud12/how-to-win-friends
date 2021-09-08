@@ -42,11 +42,11 @@ li {
 
 a:link {
   text-decoration: none;
-  color: #006b5e;
+  color: #1f9182;
 }
 a:visited {
   text-decoration: none;
-  color: #1f9182;
+  color: #006b5e;
 }
 a:hover {
   text-decoration: underline;#006b5e;
