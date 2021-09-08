@@ -4,7 +4,7 @@
 
 
 body{
-  font-family: "Montserrat", serif;
+  font-family: "Montserrat", "Comic Sans MS", serif;
   background-image: linear-gradient(300deg, #f7fffe, #ebfffc 100%);
   color: #303030;
   margin-left:  7.5em;
@@ -28,7 +28,7 @@ width: auto;
   text-align: middle;
   border: 3px solid;
   box-sizing: content-box;
-  background-color: #f7fffe;
+  background-color: ##dff2f0;
   padding: 1.5em;
     clear: both;
     overflow: auto;
