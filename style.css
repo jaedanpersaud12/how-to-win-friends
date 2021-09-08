@@ -1,6 +1,17 @@
 
-@import url("https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap");
+
+
 
 body{
-  font-family: "Kaisei Tokumin", serif;
+  font-family: "Montserrat", serif;
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  color: #303030;
+}
+
+.cover  {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
 }
