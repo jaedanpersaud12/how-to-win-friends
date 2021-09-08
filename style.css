@@ -5,7 +5,7 @@
 
 body{
   font-family: "Montserrat", serif;
-  background-image: linear-gradient(45deg, #f5f5f5, #ebfffc);
+  background-image: linear-gradient(300deg, #f7fffe, #ebfffc 100%);
   color: #303030;
   margin:  6em;
 }
@@ -20,12 +20,12 @@ width: auto;
 .header {
   text-align: left;
   border: 3px solid;
-  background-color: #b6c3cc;
+  background-color: #f7fffe;
   padding-left: 1em;
 }
 
 li {
-  font-size: 125%;
+  font-size: 110%;
   font-weight: bold;
 }
 
