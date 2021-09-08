@@ -17,6 +17,6 @@ margin-right: auto;
 width: auto;
 }
 
-.contents:visited {
+.contents:hover {
   color: black;
 }
