@@ -5,7 +5,7 @@
 
 body{
   font-family: "Montserrat", "Comic Sans MS", serif;
-  background-image: linear-gradient(300deg, #2DC7FF, #ebfffc 50%);
+  background-image: linear-gradient(0deg, #c4efff, #ebfffc );
   color: #303030;
   margin-left:  7.5em;
   margin-right: 7.5em;
@@ -28,11 +28,11 @@ width: auto;
   text-align: middle;
   border: 3px solid;
   box-sizing: content-box;
-  background-color: #0081AF;
+  background-color: #44c4eb;
   padding: 1.5em;
     clear: both;
     overflow: auto;
-    border-color: #0081AF;
+    border-color: #44c4eb;
 }
 
 #cover{
@@ -47,15 +47,15 @@ li {
 
 a:link {
   text-decoration: none;
-  color: #0081AF;
+  color: #27b1e3;
 }
 a:visited {
   text-decoration: none;
-  color: ##005370;
+  color: #1f98c4;
 }
 a:hover {
   text-decoration: underline;
-  color: ##005370;
+  color: #1f98c4;
 }
 a:active {
   text-decoration: none;
