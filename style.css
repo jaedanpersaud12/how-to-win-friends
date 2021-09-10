@@ -13,6 +13,17 @@ body{
   margin-bottom: 2em;
 }
 
+h1, h2, h4{
+  color: #001714  ;
+}
+
+
+li {
+  font-size: 110%;
+  font-weight: bold;
+}
+
+
 .cover  {
   display: block;
 margin-left: auto;
@@ -40,11 +51,6 @@ width: auto;
 
 }
 
-li {
-  font-size: 110%;
-  font-weight: bold;
-}
-
 a:link {
   text-decoration: none;
   color: #27b1e3;
@@ -61,9 +67,6 @@ a:active {
   text-decoration: none;
 }
 
-h1, h2, h4{
-  color: #001714  ;
-}
 
 .contact{
   font-size: 95%
