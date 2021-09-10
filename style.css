@@ -5,7 +5,7 @@
 
 body{
   font-family: "Montserrat", "Comic Sans MS", serif;
-  background-image: linear-gradient(0deg, #c4efff, #ebfffc );
+  background-image: linear-gradient(0deg, #c4efff, #ebfffc 75%);
   color: #303030;
   margin-left:  7.5em;
   margin-right: 7.5em;
