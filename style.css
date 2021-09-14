@@ -1,16 +1,13 @@
-
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap");
-
-
-
 body{
-  font-family: "Montserrat", "Comic Sans MS", serif;
+  font-family: "Montserrat","Comic Sans MS", serif;
   background-image: linear-gradient(0deg, #c4efff, #ebfffc);
   color: #303030;
   margin-left:  7.5em;
   margin-right: 7.5em;
   margin-top: 1em;
   margin-bottom: 2em;
+  letter-spacing: 0.01em;
 }
 
 h1, h2, h4{
@@ -67,6 +64,11 @@ a:active {
   text-decoration: none;
 }
 
+<<<<<<< Updated upstream
+=======
+h1, h2, h4{
+  color: #001714;
+>>>>>>> Stashed changes
 
 .contact{
   font-size: 95%
