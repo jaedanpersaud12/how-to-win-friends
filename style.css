@@ -68,11 +68,21 @@ a:active {
   text-decoration: none;
 }
 
-<<<<<<< Updated upstream
-=======
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.friends {
+  font-weight: bold;
+  font-style: italic;
+}
+
 h1, h2, h4{
   color: #001714;
->>>>>>> Stashed changes
 
 .contact{
   font-size: 95%
