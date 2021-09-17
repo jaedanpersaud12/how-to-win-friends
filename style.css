@@ -46,6 +46,10 @@ width: auto;
 #cover{
   float: right;
 
+  .image{
+    float: right;
+  }
+
 }
 
 a:link {
